@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Maior de dois</string>
+    <string name="app_titulo">Maior de Dois</string>
+    <string name="app_imprimir_maior">Mostar o Maior</string>
+    <string name="app_valor1">Digite o primeiro numero</string>
+    <string name="app_valor2">Digite o segundo numero</string>
+    <string name="app_img_titulo">Titulo da imagem</string>
+</resources>
